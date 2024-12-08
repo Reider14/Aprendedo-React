@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+.titulo {
+    color: aqua;
+    font-size: 40px;
+    background-color: black;
+}
+
+.subtitulo {
+    font-size: 30px;
+    background-color: aqua;
+}
+
+.paragrafo {
+    font-size: 20px;
+    font-weight: bold;
+}
